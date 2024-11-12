@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
         - name: hello
-          image: keerthiga26/dockhub
+          image: keerthiga26/dockhub:28
           imagePullPolicy: Always
 
