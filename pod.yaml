@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
         - name: hello
-          image: rubikavenkatesh/kubeproject1:latest
+          image: keerthiga26/dockhub
           imagePullPolicy: Always
 
